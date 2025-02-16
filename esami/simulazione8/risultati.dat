@@ -1,0 +1,25 @@
+il numero di posizioni è: 10
+carico le posizioni
+stampo: 
+le posizioni sono: 
+0 -1
+-1 0
+0 0
+1 1
+1 0
+0 1
+-1 -1
+-1 1
+1 -1
+2 1
+carico le traiettorie
+stampo: 
+le traiettorie sono: 4
+20  N E O S N N S E O E N S S S O N E O N S
+10  W E S W N S E E S N
+5  N S O O S
+5  N S S O E
+il drone seguendo la traiettoria è arrivato a : 0 -1
+la distanza massima è stata raggiunta seguendo la traiettoria: 10 WESWNSEESN
+la distanza massima è stata raggiunta seguendo la traiettoria: 10 WESWNSEESN
+ci sono state: 10 collisioni 
